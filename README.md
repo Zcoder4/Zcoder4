@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm a zome 👋
 
 <!--
 **Zcoder4/Zcoder4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📹 my youtube is [**zome**](https://www.youtube.com/@zome_prst28)
