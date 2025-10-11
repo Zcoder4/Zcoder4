@@ -1,7 +1,8 @@
-## Hello World! I'm a zome 👋
+##          Hi 👋, I'm a zome
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&width=435&lines=hi+im+zome+%3A)+;nice+to+meet+you+(%E2%81%A0%E2%80%A2%E2%81%A0%E2%80%BF%E2%81%A0%E2%80%A2%E2%81%A0))](https://git.io/typing-svg)
+![Zcoder4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zcoder4&theme=vue-dark&hide_border=false)
+![Zcoder4's Stats](https://github-readme-stats.vercel.app/api?username=Zcoder4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Zcoder4/Zcoder4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
